@@ -12,3 +12,6 @@ BROTHER.JS
 Fun Demo
 --------
 ![brother animation demo](http://static.tumblr.com/v713go9/3L4mrgczu/hogantest2.gif)
+
+### Also
+*requires jQuery* :-/
