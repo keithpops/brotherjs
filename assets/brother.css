@@ -1,0 +1,363 @@
+@-webkit-keyframes walk-front {
+  0% {
+    background-position: -143px -49px;
+    width: 32px;
+    height: 79px;
+  }
+  33% {
+    background-position: -191px -48px;
+    width: 31px;
+    height: 80px;
+  }
+  66% {
+    background-position: -238px -51px;
+    width: 29px;
+    height: 77px;
+  }
+  100% {
+    background-position: -283px -48px;
+    width: 32px;
+    height: 80px;
+  }
+
+}
+@keyframes walk-front {
+  0% {
+    background-position: -143px -49px;
+    width: 32px;
+    height: 79px;
+  }
+  33% {
+    background-position: -191px -48px;
+    width: 31px;
+    height: 80px;
+  }
+  66% {
+    background-position: -238px -51px;
+    width: 29px;
+    height: 77px;
+  }
+  100% {
+    background-position: -283px -48px;
+    width: 32px;
+    height: 80px;
+  }
+
+}
+@-webkit-keyframes walk-back {
+  0% {
+    background-position: -475px -49px;
+    width: 32px;
+    height: 79px;
+  }
+  33% {
+    background-position: -523px -48px;
+    width: 31px;
+    height: 80px;
+  }
+  66% {
+    background-position: -570px -49px;
+    width: 29px;
+    height: 79px;
+  }
+  100% {
+    background-position: -615px -48px;
+    width: 32px;
+    height: 80px;
+  }
+
+}
+@keyframes walk-back {
+  0% {
+    background-position: -475px -49px;
+    width: 32px;
+    height: 79px;
+  }
+  33% {
+    background-position: -523px -48px;
+    width: 31px;
+    height: 80px;
+  }
+  66% {
+    background-position: -570px -49px;
+    width: 29px;
+    height: 79px;
+  }
+  100% {
+    background-position: -615px -48px;
+    width: 32px;
+    height: 80px;
+  }
+
+}
+@-webkit-keyframes punch-left {
+  0% {
+    background-position: -48px -195px;
+    width: 29px;
+    height: 77px;
+  }
+  25% {
+    background-position: -93px -192px;
+    width: 32px;
+    height: 80px;
+  }
+  75% {
+    background-position: -141px -194px;
+    width: 56px;
+    height: 78px;
+  }
+
+}
+@keyframes punch-left {
+  0% {
+    background-position: -48px -195px;
+    width: 29px;
+    height: 77px;
+  }
+  25% {
+    background-position: -93px -192px;
+    width: 32px;
+    height: 80px;
+  }
+  75% {
+    background-position: -141px -194px;
+    width: 56px;
+    height: 78px;
+  }
+
+}
+@-webkit-keyframes punch-right {
+  0% {
+    background-position: -261px -195px;
+    width: 32px;
+    height: 77px;
+  }
+  25% {
+    background-position: -309px -192px;
+    width: 32px;
+    height: 80px;
+  }
+  75% {
+    background-position: -357px -194px;
+    width: 52px;
+    height: 78px;
+  }
+
+}
+@keyframes punch-right {
+  0% {
+    background-position: -261px -195px;
+    width: 32px;
+    height: 77px;
+  }
+  25% {
+    background-position: -309px -192px;
+    width: 32px;
+    height: 80px;
+  }
+  75% {
+    background-position: -357px -194px;
+    width: 52px;
+    height: 78px;
+  }
+
+}
+@-webkit-keyframes kick {
+  0% {
+    background-position: -48px -49px;
+    width: 31px;
+    height: 79px;
+  }
+  50% {
+    background-position: -473px -197px;
+    width: 29px;
+    height: 75px;
+  }
+  75% {
+    background-position: -518px -184px;
+    width: 48px;
+    height: 88px;
+  }
+
+}
+@keyframes kick {
+  0% {
+    background-position: -48px -49px;
+    width: 31px;
+    height: 79px;
+  }
+  50% {
+    background-position: -473px -197px;
+    width: 29px;
+    height: 75px;
+  }
+  75% {
+    background-position: -518px -184px;
+    width: 48px;
+    height: 88px;
+  }
+
+}
+@-webkit-keyframes call-out {
+  0% {
+    background-position: -48px -49px;
+    width: 31px;
+    height: 79px;
+  }
+  35% {
+    background-position: -665px -480px;
+    width: 40px;
+    height: 80px;
+  }
+  40% {
+    background-position: -721px -482px;
+    width: 50px;
+    height: 78px;
+  }
+
+}
+@keyframes call-out {
+  0% {
+    background-position: -48px -49px;
+    width: 31px;
+    height: 79px;
+  }
+  35% {
+    background-position: -665px -480px;
+    width: 40px;
+    height: 80px;
+  }
+  40% {
+    background-position: -721px -482px;
+    width: 50px;
+    height: 78px;
+  }
+
+}
+@-webkit-keyframes death {
+  0% {
+    background-position: -48px -1808px;
+    width: 29px;
+    height: 80px;
+  }
+  25% {
+    background-position: -188px -1814px;
+    width: 44px;
+    height: 74px;
+  }
+  50% {
+    background-position: -248px -1837px;
+    width: 48px;
+    height: 51px;
+  }
+  75% {
+    background-position: -312px -1852px;
+    width: 63px;
+    height: 36px;
+  }
+  100% {
+    background-position: -312px -1852px;
+    width: 63px;
+    height: 36px;
+  }
+
+}
+@keyframes death {
+  0% {
+    background-position: -48px -1808px;
+    width: 29px;
+    height: 80px;
+  }
+  25% {
+    background-position: -188px -1814px;
+    width: 44px;
+    height: 74px;
+  }
+  50% {
+    background-position: -248px -1837px;
+    width: 48px;
+    height: 51px;
+  }
+  75% {
+    background-position: -312px -1852px;
+    width: 63px;
+    height: 36px;
+  }
+  100% {
+    background-position: -312px -1852px;
+    width: 63px;
+    height: 36px;
+  }
+
+}
+#brother {
+  position: fixed;
+}
+
+.sprite {
+  background: url('brother.png') no-repeat;
+  width: 35px;
+  height: 85px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* resting states */
+.sprite.rest-front {
+  background-position: -48px -49px;
+  width: 31px;
+  height: 79px;
+  animation: call-out 2.5s steps(1) 2s infinite alternate;
+  -webkit-animation: call-out 2.5s steps(1) 2s infinite alternate;
+}
+.sprite.rest-back {
+  background-position: -379px -49px;
+  width: 32px;
+  height: 79px;
+}
+
+.sprite.invert {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}
+
+/* walking states */
+.sprite.walk-front {
+  -webkit-animation: walk-front 0.5s steps(1) infinite;
+  animation: walk-front 0.5s steps(1) infinite;
+}
+.sprite.walk-back {
+  -webkit-animation: walk-back 0.5s steps(1) infinite;
+  animation: walk-back 0.5s steps(1) infinite;
+}
+
+/* attack states */
+.sprite.walk-front.punch-left, .sprite.walk-back.punch-left {
+  -webkit-animation: punch-left 0.5s steps(1) infinite;
+  animation: punch-left 0.5s steps(1) infinite;
+}
+.sprite.walk-front.punch-right, .sprite.walk-back.punch-right {
+  -webkit-animation: punch-right 0.5s steps(1) infinite;
+  animation: punch-right 0.5s steps(1) infinite;
+}
+.sprite.kick {
+  -webkit-animation: kick 0.5s steps(1) infinite;
+  animation: kick 0.5s steps(1) infinite;
+}
+
+.sprite.call-out {
+  -webkit-animation: call-out 0.5s steps(1) infinite;
+  animation: call-out 0.5s steps(1) infinite;
+}
+
+.sprite.death {
+  background-position: -312px -1852px;
+  width: 63px;
+  height: 36px;
+  -webkit-animation: death 0.5s steps(1) 1;
+  animation: death 0.5s steps(1) 1;
+}
