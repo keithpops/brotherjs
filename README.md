@@ -11,6 +11,7 @@ BROTHER.JS
 ```
 Fun Demo
 --------
+[CLICK HERE](http://keithpops.github.io/brotherjs/) for a fun example.
 ![brother animation demo](http://static.tumblr.com/v713go9/3L4mrgczu/hogantest2.gif)
 
 ### Also
